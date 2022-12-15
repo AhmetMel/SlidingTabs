@@ -1,3 +1,5 @@
+<h1>Başlık</h1>
+
 Kayan sekmeler genellikle basit bir kaydırma animasyonu olan menüler için kullanılmaktadır.HTML,CSS ve JavaScript kullanılarak oluşturulmuştur.Kaydırıcımızda üç sekme var, bir kullanıcı herhangi bir sekmeye tıkladığında, kaydırıcı yavaş yavaş belirli sekmeye kayar.
 <h1>Video</h1>
 
